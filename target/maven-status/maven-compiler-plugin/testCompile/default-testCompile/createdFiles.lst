@@ -1,0 +1,4 @@
+base\BaseTest.class
+telecomunications\positive\MobilePhoneReplenishmentPositivePageTest.class
+loan_facilities\positive\CarLoansPositiveTest.class
+base\Listener.class
